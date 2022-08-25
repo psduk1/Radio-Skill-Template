@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "infinity radio",
+      "invocationName": "powerjam radio uk",
       "intents": [
         {
           "name": "AMAZON.NavigateHomeIntent",
