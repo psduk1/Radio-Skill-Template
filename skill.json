@@ -3,34 +3,34 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Maximum Music Infinite Choice",
+          "summary": "THE POWER STATION ACROSS THE NATION",
           "examplePhrases": [
-            "Alexa, play infinity radio",
-            "Alexa, open infinity radio"
+            "Alexa, play power jam radio.u. k.",
+            "Alexa, open power jam radio.u. k."
           ],
           "keywords": [
             "audio streaming",
             "music",
             "live music"
           ],
-          "name": "Infinity Radio UK",
-          "description": "Infinity Radio UK skill for Amazon Alexa",
+          "name": "Power Jam Radio UK",
+          "description": "Power Jam Radio UK skill for Amazon Alexa",
           "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
         },
         "en-GB": {
-          "summary": "Maximum Music Infinite Choice",
+          "summary": "THE POWER STATION ACROSS THE NATION",
           "examplePhrases": [
-            "Alexa, play infinity radio",
-            "Alexa, open infinity radio"
+            "Alexa, play power jam radio.u. k.",
+            "Alexa, open power jam radio.u. k."
           ],
           "keywords": [
             "audio streaming",
             "music",
             "live music"
           ],
-          "name": "Infinity Radio UK",
-          "description": "Infinity Radio UK skill for Amazon Alexa",
+          "name": "Power Jam Radio UK",
+          "description": "Power Jam Radio UK skill for Amazon Alexa",
           "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
         }
