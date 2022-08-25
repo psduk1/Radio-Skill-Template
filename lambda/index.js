@@ -6,16 +6,16 @@ const Alexa = require('ask-sdk-core');
 
 const STREAMS = [
   {
-    'token': 'infinityradio',
-    'url': 'https://live.infinityradio.uk/stream/8006',
+    'token': 'PowerJam Radio uk',
+    'url': 'https://web-radio.co.uk/stream/8006',
     'metadata': {
-      'title': 'Infinity Radio',
-      'subtitle': 'Maximum Music Infinite Choice',
+      'title': 'powerjam radio uk',
+      'subtitle': 'The Power Station Accross The Nation',
       'art': {
         'sources': [
           {
-            'contentDescription': 'Infinity Radio',
-            'url': 'https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png',
+            'contentDescription': 'PowerJam Radio uk',
+            'url': 'https://powerjamradio.uk/wp-content/uploads/2021/09/powerjam-logo-300x200-1.jpg',
             'widthPixels': 512,
             'heightPixels': 512,
           },
@@ -24,8 +24,8 @@ const STREAMS = [
       'backgroundImage': {
         'sources': [
           {
-            'contentDescription': 'Infinity Radio',
-            'url': 'https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png',
+            'contentDescription': 'PowerJam Radio uk',
+            'url': 'https://powerjamradio.uk/wp-content/uploads/2021/09/powerjam-logo-300x200-1.jpg',
             'widthPixels': 1200,
             'heightPixels': 800,
           },
